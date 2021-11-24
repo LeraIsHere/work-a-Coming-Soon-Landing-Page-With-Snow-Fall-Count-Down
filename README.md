@@ -1,3 +1,3 @@
-# A Coming Soon Landing Page With Snow Fall And Count Down Effect Using HTML CSS And JAVASCRIPT
+# A Coming Soon Landing Page With Snow Fall And Count Down Effect
 
 ![screen](screen.png)​
