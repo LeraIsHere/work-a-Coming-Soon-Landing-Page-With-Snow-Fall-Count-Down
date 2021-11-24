@@ -50,4 +50,4 @@ setInterval(function(){
     countDown();
 },1000)
 
-// count down part off 
+// count down part off
